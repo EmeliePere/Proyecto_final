@@ -1,0 +1,15 @@
+La empresa TK-U necesita automatizar las cotizaciones de seguros porque el proceso manual es lento y limita la cantidad de clientes atendidos. 
+El programa debe calcular el precio total del seguro a partir de un plan base y aplicar recargos según las condiciones del asegurado:
+
+- El asegurado debe ser mayor de edad (≥ 18 años).
+- Se aplican recargos según la edad del asegurado.
+- Se aplican recargos según la edad del cónyuge, si existe.
+- Se aplican recargos por cada hijo o hija.
+
+Los recargos son:
+- 10% del precio base si la edad está entre 18 y 24 años.
+- 20% del precio base si la edad está entre 25 y 49 años.
+- 30% del precio base si la edad es 50 o más.
+- 20% del precio base por cada hijo.
+
+El problema consiste en implementar estas reglas dentro del programa base, completando las secciones indicadas en los comentarios.
