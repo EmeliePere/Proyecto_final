@@ -1,0 +1,11 @@
+1. Ingresar edad del asegurado.
+2. Verificar si es mayor de edad (≥ 18). Si no, terminar.
+3. Ingresar estado civil del asegurado.
+4. Si está casado:
+   4.1 Ingresar edad del cónyuge.
+   4.2 Calcular recargo según rango de edad del cónyuge.
+5. Ingresar cantidad de hijos.
+6. Calcular recargo por cada hijo (20% del precio base).
+7. Calcular recargo según rango de edad del asegurado.
+8. Sumar todos los recargos al precio base.
+9. Mostrar el precio total de la cotización.
